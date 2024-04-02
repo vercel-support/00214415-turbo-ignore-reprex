@@ -1,0 +1,12 @@
+{
+  "name": "turbo-reprex",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "turbo": "1.13.1",
+    "turbo-ignore": "^1.13.1"
+  }
+}
